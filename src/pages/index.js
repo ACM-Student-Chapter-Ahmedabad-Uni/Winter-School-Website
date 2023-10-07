@@ -7,14 +7,16 @@ import * as styles from "../components/index.module.css"
 import Carousel from "../components/carousel"
 import Navbar from "../components/navbar"
 import Card from "../components/card"
+import Cards from "../components/cards"
+import CardContainer from "../components/cardcontainer"
 
 const IndexPage = () => (
   <Layout>
     <Navbar />
     <Carousel />
-    <div className={styles.centeredContainer}>
-      <Card />
-    </div>
+    <CardContainer/>
+  
+    
   </Layout>
 )
 
