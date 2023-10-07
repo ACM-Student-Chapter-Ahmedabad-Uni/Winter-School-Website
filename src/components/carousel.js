@@ -19,14 +19,22 @@ const Carousel = () => {
     }, [activeIndex]);
 
     return (
-        <div>
+        <div style={{ height: '70vh' }}>
             {images.map((image, index) => (
                 <img
                     key={index}
                     src={image.default}
                     alt=""
-                    style={{ display: index === activeIndex ? 'block' : 'none' }}
+                    style={{
+                        display: index === activeIndex ? 'block' : 'none',
+                        // objectFit: 'contain',
+                        width: '100%',
+                        height: '100%',
+                    }}
+
                 />
+                
+
             ))}
         </div>
     );
