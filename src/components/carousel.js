@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 
 const images = [
-    require('../images/One.jpg'),
+    require('../images/One.jpeg'),
     require('../images/Three.jpg'),
-    require('../images/Two.jpg'),
+    require('../images/Two.png'),
     // Add as many images as you want...
 ];
 
@@ -19,7 +19,7 @@ const Carousel = () => {
     }, [activeIndex]);
 
     return (
-        <div style={{ height: '70vh' }}>
+        <div style={{ height: '500px', width: '100%', overflow: 'hidden' }}>
             {images.map((image, index) => (
                 <img
                     key={index}
@@ -27,14 +27,11 @@ const Carousel = () => {
                     alt=""
                     style={{
                         display: index === activeIndex ? 'block' : 'none',
-                        // objectFit: 'contain',
+                        objectFit: 'cover',
                         width: '100%',
                         height: '100%',
                     }}
-
                 />
-                
-
             ))}
         </div>
     );
