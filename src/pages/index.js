@@ -11,6 +11,7 @@ import Navbar from "../components/navbar"
 import CardUI from "../components/cardUI"
 import CardsUI from "../components/cardsUI"
 import Team from "../components/team_try"
+import Footer from "../components/footer"
 import Card from "../components/card"
 import Cards from "../components/cards"
 import CardContainer from "../components/cardcontainer"
@@ -21,6 +22,7 @@ const IndexPage = () => (
     <Carousel />
     <CardsUI />
     <Team />
+    <Footer />
     
   </Layout>
 )

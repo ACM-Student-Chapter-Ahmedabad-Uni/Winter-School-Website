@@ -14,7 +14,7 @@ class Cards extends Component{
                     <Card imgsrc={cardImage} title="card 2"/>
                     </div>
                     <div className="col-md-4">
-                    <Card imgsrc={cardImage} title="card 3"/>
+                    <Card imgsrc={cardImage} title="card 1"/>
                     </div>
                 </div>
             </div>
