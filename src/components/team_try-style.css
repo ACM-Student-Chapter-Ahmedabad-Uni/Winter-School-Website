@@ -1,0 +1,20 @@
+:root{
+    --color: red;
+    --border_width: 4px;
+    --height: 85px;
+    --time: 1s;
+}
+
+selector:before{
+    content: "";
+    width: var(--border_width);
+    height: var(--height);
+    background: var(--color);
+    position: absolute;
+    right: 0;
+    z-index: 0;
+    transition:var(--time);
+}
+.team_member:hover selector:before{
+    width: 110%;
+}
