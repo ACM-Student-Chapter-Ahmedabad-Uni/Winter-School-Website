@@ -19,7 +19,7 @@ const Carousel = () => {
     }, [activeIndex]);
 
     return (
-        <div style={{ height: '50vh', width: '100%', overflow: 'hidden' }}>
+        <div style={{ height: '60vh', width: '100%', overflow: 'hidden' }}>
             {images.map((image, index) => (
                 <img
                     key={index}
