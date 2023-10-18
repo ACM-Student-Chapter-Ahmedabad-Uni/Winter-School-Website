@@ -5,7 +5,7 @@ import Seo from "../components/seo"
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>EVENTS</h1>
+    <h1>SPEAKERS</h1>
     
   </Layout>
 )

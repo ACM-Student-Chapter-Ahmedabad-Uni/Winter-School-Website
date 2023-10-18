@@ -21,8 +21,8 @@ const IndexPage = () => (
     <Navbar />
     <Carousel />
     {/* <CardContainer/> */}
-    {/* <CardsUI /> */}
-    <Team />
+    <CardsUI />
+    {/* <Team /> */}
     <Footer />
     
   </Layout>
