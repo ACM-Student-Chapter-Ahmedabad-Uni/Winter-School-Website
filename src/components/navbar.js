@@ -16,11 +16,11 @@ function TextLinkExample() {
       <Nav>
         {/* <Nav.Link href="/home">HOME</Nav.Link> */}
         {/* <Nav.Link href="#about">ABOUT</Nav.Link> */}
-        <Nav.Link href="/events">SCHEDULE</Nav.Link>
+        <Nav.Link href="/schedule">SCHEDULE</Nav.Link>
         <Nav.Link href="/speakers">SPEAKERS</Nav.Link>
         <Nav.Link href="/team">TEAM</Nav.Link>
-        <Nav.Link href="/team">VENUE</Nav.Link>
-        <Nav.Link href="/team">ACCOMODATION</Nav.Link>
+        <Nav.Link href="/venue">VENUE</Nav.Link>
+        <Nav.Link href="/accomodation">ACCOMODATION</Nav.Link>
         {/* <Nav.Link href="/team">CODE OF CONDUCT</Nav.Link> */}
         {/* <Nav.Link href="/resources">RESOURCES</Nav.Link> */}
       </Nav>
