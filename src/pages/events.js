@@ -2,11 +2,11 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Schedule from "../components/schedule"
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>EVENTS</h1>
-    
+    <Schedule />
   </Layout>
 )
 
