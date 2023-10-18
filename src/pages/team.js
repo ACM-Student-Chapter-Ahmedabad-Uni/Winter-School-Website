@@ -1,15 +1,12 @@
 import * as React from "react"
 
-import Layout from "../components/layout"
 import Seo from "../components/seo"
-
+import Team from "../components/team"
 const NotFoundPage = () => (
-  <Layout>
-    <h1>TEAM</h1>
-    
-  </Layout>
+  
+  <Team />
 )
 
-export const Head = () => <Seo title="404: Not Found" />
+export const Head = () => <Seo title="Meet the Team" />
 
 export default NotFoundPage
