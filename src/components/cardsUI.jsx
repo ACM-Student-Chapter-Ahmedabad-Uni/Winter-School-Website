@@ -1,31 +1,34 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react';
 import Card from './cardUI';
 import cardImage from '../images/Card-dummy.jpeg';
 
-class Cards extends Component{
-    render(){
-        return React.createElement(
-            'div', 
-            {className: "container-fluid d-flex justify-content-center"},
-            React.createElement(
-                'div',
-                {className: "row"},
-                React.createElement(
-                    'div',
-                    {className: "col-12 col-sm-6 col-md-4"},
-                    React.createElement(Card, {imgsrc: cardImage, title: "card 1"})
-                ),
-                React.createElement(
-                    'div',
-                    {className: "col-12 col-sm-6 col-md-4"},
-                    React.createElement(Card, {imgsrc: cardImage, title: "card 2"})
-                ),
-                React.createElement(
-                    'div',
-                    {className: "col-12 col-sm-6 col-md-4"},
-                    React.createElement(Card, {imgsrc: cardImage, title: "card 3"})
-                )
-            )
+class Cards extends Component {
+    render() {
+        return (
+            <div className="card-section">
+                <h2 className="text-left" style={{marginLeft:'30px', marginTop:'30px'}}>Lorem ipsum dolor sit</h2>
+                <p className="text-left" style={{marginLeft:'30px'}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.</p>
+            <div className="card-parent">
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 1" />
+                    </div>
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 2" />
+                    </div>
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 3" />
+                    </div>
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 3" />
+                    </div>
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 3" />
+                    </div>
+                    <div className="">
+                        <Card imgsrc={cardImage} title="card 3" />
+                    </div>
+                    </div>
+            </div>
         );
     }
 }
