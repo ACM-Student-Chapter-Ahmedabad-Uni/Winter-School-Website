@@ -8,7 +8,7 @@ const data = {
   "Speakers": [
     {
       "name": "Amit Nanavati",
-      "imageUrl": "https://example.com/amit.jpg",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164469844834533386/300_x_400_amit_nanavati-1.png?ex=6543540d&is=6530df0d&hm=acb46162effb7cb04791abbd7782e4875699e7870ecd68331c910df050d33b27&",
       "title": "Founder & CEO"
     },
     {
@@ -70,6 +70,6 @@ const TeamPage = () => (
   </>
 )
 
-export const Head = () => <Seo title="Meet the Team" />
+export const Head = () => <Seo title="Team" />
 
 export default TeamPage
