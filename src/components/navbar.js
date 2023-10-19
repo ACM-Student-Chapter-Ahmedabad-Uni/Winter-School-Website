@@ -10,7 +10,7 @@ function TextLinkExample() {
   return (
     <Navbar className="bg-body-tertiary" expand="lg">
 
-    <Navbar.Brand href="/index">  ACM Ahmedabad University</Navbar.Brand>
+    <Navbar.Brand href="/">  ACM Ahmedabad University</Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
       <Nav>
