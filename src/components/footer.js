@@ -57,6 +57,7 @@ import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
 function Footer() {
     return (
+      <container>
       <footer className="footer-distributed">
         <div className="footer-left">
           <h3>Sagar<span>Developer</span></h3>
@@ -97,6 +98,7 @@ function Footer() {
           </div>
         </div>
       </footer>
+      </container>
     );
   }
   

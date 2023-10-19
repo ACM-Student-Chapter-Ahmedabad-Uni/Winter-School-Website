@@ -3,6 +3,7 @@ import * as React from "react"
 import Seo from "../components/seo"
 import TeamCard from "../components/teamCard"
 import Navbar from "../components/navbar"
+import Footer from "../components/footer"
 
 const data = {
   "Speakers": [
@@ -66,8 +67,9 @@ const SpeakerPage = () => (
       ))}
     </div>
   </section>
-</div>
 
+</div>
+  <Footer/>
   </>
 )
 

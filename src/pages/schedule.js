@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Seo from "../components/seo"
 import Schedule from "../components/schedule"
 import Navbar from '../components/navbar'
+import Footer from '../components/footer'
 
 const data = {
   "Days": [
@@ -70,6 +71,7 @@ const SchedulePage = () => (
         </div>
       </div>
     </section>
+    <Footer/>
   </>
 )
 

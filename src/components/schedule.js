@@ -2,7 +2,6 @@ import React from 'react';
 
 function Schedule(props) {
     const data = props.day;
-    console.log(data);
     return (
 
         <div>

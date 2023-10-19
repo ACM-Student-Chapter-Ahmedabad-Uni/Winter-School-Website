@@ -15,7 +15,7 @@ const IndexPage = () => (
     <Carousel />
     {/* <CardContainer/> */}
     <CardsUI />
-    <Team />
+    {/* <Team /> */}
     <Footer />
     
   </Layout>
