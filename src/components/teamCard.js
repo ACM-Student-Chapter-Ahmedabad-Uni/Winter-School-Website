@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TeamCard(props) {
+function TeamCard( {data: props}) {
     const name = props.name;
     const title = props.title;
     const imageUrl = props.imageUrl;
