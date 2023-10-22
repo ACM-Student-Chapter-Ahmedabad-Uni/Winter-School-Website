@@ -35,10 +35,10 @@ export function AccordionCustomStyles() {
                                     <TimelineConnector className="md:!w-[78px]" />
                                     <TimelineHeader className="relative rounded-xl border border-blue-gray-50 py-3 pl-4 pr-8 shadow-lg shadow-blue-gray-900/5">
                                         <TimelineIcon className="p-3" variant="ghost">
-                                            <p>{event.time}</p>
+                                            <p className="text-sm md:text-base lg:text-lg">{event.time}</p>
                                         </TimelineIcon>
-                                        <div className="flex flex-col gap-1">
-                                            <Typography variant="h6" color="blue-gray">
+                                        <div className="flex flex-col md:flex-row gap-1">
+                                            <Typography variant="h6" color="blue-gray" className="text-sm md:text-base lg:text-lg">
                                                 {event.event}
                                             </Typography>
                                         </div>
