@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `ACM Ahemdabad University`,
+    title: `ACM Ahmedabad University`,
     description: `ACM Student Chapter of Ahmedabad University`,
     author: `@ACM Ahmedabad University`,
     siteUrl: `https://acm-au.vercel.app/`,
