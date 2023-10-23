@@ -10,7 +10,7 @@ import { AccordionCustomStyles } from "../../src/components/schedule.js"; // Rep
 const SchedulePage = () => (
   <>
     <Navbar />
-    <section className="bg-gray-800 text-gray-100">
+    <section>
       <div className="container px-4 py-16 mx-auto space-y-8 lg:max-w-3xl">
         <h2 className="text-2xl font-bold md:text-4xl">Timeline</h2>
         <div className="space-y-8">

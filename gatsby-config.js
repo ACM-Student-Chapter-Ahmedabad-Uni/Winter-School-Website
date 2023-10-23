@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `ACM Ahemdabad University`,
+    description: `ACM Student Chapter of Ahmedabad University`,
+    author: `@ACM Ahmedabad University`,
+    siteUrl: `https://acm-au.vercel.app/`,
   },
   plugins: [
     'gatsby-plugin-postcss',

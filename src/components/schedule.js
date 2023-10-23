@@ -20,9 +20,9 @@ export function AccordionCustomStyles() {
     return (
         <>
             {data.Days.map((day, index) => (
-                <Accordion open={open === index + 1} className="mb-2 rounded-lg border border-blue-gray-100 px-4" key={index}>
+                <Accordion onClick={() => handleOpen(index + 1)} open={open === index + 1} className="mb-2 rounded-lg border border-blue-gray-100 px-4" key={index}>
                     <AccordionHeader
-                        onClick={() => handleOpen(index + 1)}
+                        
                         className={`border-b-0 transition-colors ${open === index + 1 ? "text-blue-500 hover:!text-blue-700" : ""
                             }`}
                     >

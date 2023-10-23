@@ -1,7 +1,7 @@
 export const data = {
     "Days": [
         {
-            "Day": "Mon, 11",
+            "Day": "Mon, 11 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -46,7 +46,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Tue, 12",
+            "Day": "Tue, 12 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -91,7 +91,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Wed, 13",
+            "Day": "Wed, 13 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -136,7 +136,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Thu, 14",
+            "Day": "Thu, 14 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -181,7 +181,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Fri, 15",
+            "Day": "Fri, 15 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -226,7 +226,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Sat, 16",
+            "Day": "Sat, 16 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -263,7 +263,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Sun, 17",
+            "Day": "Sun, 17 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -292,7 +292,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Mon, 18",
+            "Day": "Mon, 18 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -333,7 +333,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Tue, 19",
+            "Day": "Tue, 19 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -374,7 +374,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Wed, 20",
+            "Day": "Wed, 20 December",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
