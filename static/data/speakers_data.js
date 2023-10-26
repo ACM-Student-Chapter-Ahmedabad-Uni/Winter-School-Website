@@ -40,12 +40,12 @@ export const data = {
     },
     {
       "name": "Dr. Loyimee Gogoi",
-      "imageUrl": "", // Add the image URL for Dr. Loyimee Gogoi
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167017704499195924/300_x_400_loyimee_gogoi-1.png?ex=654c98ee&is=653a23ee&hm=315983d46b43f996facc59734074ba14b81443aa916bada73e29375d811b0893&", // Add the image URL for Dr. Loyimee Gogoi
       "title": "Title for Dr. Loyimee Gogoi"
     },
     {
       "name": "Amit Nanavati",
-      "imageUrl": "", // Add the image URL for Amit Nanavati
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164469844834533386/300_x_400_amit_nanavati-1.png?ex=6543540d&is=6530df0d&hm=acb46162effb7cb04791abbd7782e4875699e7870ecd68331c910df050d33b27&", // Add the image URL for Amit Nanavati
       "title": "Title for Amit Nanavati"
     }
   ]
