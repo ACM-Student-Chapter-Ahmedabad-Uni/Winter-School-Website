@@ -13,11 +13,10 @@ const IndexPage = () => (
   <Layout>
     <Navbar />
     <Carousel />
-    {/* <CardContainer/> */}
+    <div style={{ height: '60px', background: '#f8f8f8' }}></div>
     <CardsUI />
     {/* <Team /> */}
-    {/* <Footer /> */}
-    
+    <Footer />
   </Layout>
 )
 
