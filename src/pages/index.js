@@ -16,7 +16,7 @@ const IndexPage = () => (
     {/* <CardContainer/> */}
     <CardsUI />
     {/* <Team /> */}
-    <Footer />
+    {/* <Footer /> */}
     
   </Layout>
 )

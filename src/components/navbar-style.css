@@ -4,4 +4,10 @@
   text-decoration: underline maroon; 
 }
 
+.blur-background {
+  backdrop-filter: blur(5px); /* Adjust the blur amount as needed */
+  background-color: rgba(255, 255, 255, 0.8); /* Adjust the background color and opacity as needed */
+}
+
+
 
