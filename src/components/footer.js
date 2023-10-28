@@ -15,11 +15,11 @@ function Footer() {
           <div className="text-center"> {/* Centered content */}
             <h5 className="text-xl font-bold mb-4">Quick Links</h5>
             <ul className="mb-4">
-              <li><a href="/" className="text-gray-400 hover:text-white">SCHEDUEL</a></li>
-              <li><a href="/" className="text-gray-400 hover:text-white">SPEAKERS</a></li>
-              <li><a href="/" className="text-gray-400 hover:text-white">TEAM</a></li>
-              <li><a href="/" className="text-gray-400 hover:text-white">VENUE</a></li>
-              <li><a href="/" className="text-gray-400 hover:text-white">RESOURCES</a></li>
+              <li><a href="/schedule" className="text-gray-400 hover:text-white">SCHEDULE</a></li>
+              <li><a href="/speakers" className="text-gray-400 hover:text-white">SPEAKERS</a></li>
+              <li><a href="/team" className="text-gray-400 hover:text-white">TEAM</a></li>
+              <li><a href="/venue" className="text-gray-400 hover:text-white">VENUE</a></li>
+              <li><a href="/resources" className="text-gray-400 hover:text-white">RESOURCES</a></li>
             </ul>
           </div>
           <div className="text-center"> {/* Centered content */}
