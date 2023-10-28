@@ -9,7 +9,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Loyimee - basic GT - review of LA"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -17,7 +17,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Sougata"
+                    event: "Network Visualisation: Sougata Mukherjea"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -25,11 +25,11 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Sougata"
+                    event: "Network Visualisation: Sougata Mukherjea"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Amit - strong & weak - balance in graphs"
+                    event: "Gephi Workshop"
                 },
                 {
                     time: "4:45 - 5:30",
