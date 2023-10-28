@@ -1,105 +1,40 @@
-import React from 'react'
-import './footer-style.css';
-import { FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
-// const Footer = () => {
-//     return (
-//         <>
-//             <div className="Footer">
-//                 <div className="container">
-//                     <div className="row">
-//                         <div className="col-md-6 col-lg-5 col-12 ft-1">
-//                             <h3><span>ACM</span>WiNS</h3>
-//                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum ea quo ex ullam laboriosam magni totam, facere eos iure voluptate.</p>
-//                             <div className="footer-icons">
-//                                 <i class="fa-brands fa-facebook"></i>
-//                                 <i class="fa-brands fa-twitter"></i>
-//                                 <i class="fa-brands fa-instagram"></i>
-//                                 <i class="fa-brands fa-linkedin-in"></i>
-//                             </div>
-//                         </div>
-//                         <div className="col-md-6 col-lg-3 col-12 ft-2">
-//                             <h5>Quick Links</h5>
-//                             <ul>
-//                                 <li className="nav-item">
-//                                     <a className="" href="/">HOME</a>
-//                                 </li>
-//                                 <li className="nav-item">
-//                                     <a className="" href="/">ABOUT</a>
-//                                 </li>
-//                                 <li className="nav-item">
-//                                     <a className="" href="/">EVENTS</a>
-//                                 </li>
-//                                 <li className="nav-item">
-//                                     <a className="" href="/">TEAM</a>
-//                                 </li>
-//                                 <li className="nav-item">
-//                                     <a className="" href="/">RESOURCESC</a>
-//                                 </li>
-//                             </ul>
-//                         </div>
-//                         <div className="col-md-6 col-lg-4 col-12 ft-3">
-//                             <h5>Quick Links</h5>
-//                             <p><i class="fa-solid fa-phone-volume"></i> +92 8697481150</p>
-//                             <p><i class="fa-solid fa-envelope"></i> paridhi.j@ahduni.edu.in</p>
-//                             <p><i class="fa-solid fa-paper-plane"></i> Ahmedabad, Gujarat.</p>
-//                         </div>
-//                     </div>
-//                 </div>
-//             </div>
-//             <div className='Last-footer'>
-//                 <p>Ahmedabad University</p>
-//             </div>
-//         </>
-//     )
-// }
-
-// export default Footer
+import React from 'react';
 
 function Footer() {
-    return (
-      <container>
-      <footer className="footer-distributed">
-        <div className="footer-left">
-          <h3>Sagar<span>Developer</span></h3>
-          <p className="footer-links">
-            <a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a> | <a href="#">Blog</a>
-          </p>
-          <p className="footer-company-name">
-            Copyright © 2021 <strong>SagarDeveloper</strong> All rights reserved
-          </p>
-        </div>
-        <div className="footer-center">
-          <div>
-            <i className="fa fa-map-marker"></i>
-            <p><span>Ghaziabad</span> Delhi</p>
-          </div>
-          <div>
-            <i className="fa fa-phone"></i>
-            <p>+91 74*9*258</p>
-          </div>
-          <div>
-            <i className="fa fa-envelope"></i>
-            <p>
-              <a href="mailto:sagar00001.co@gmail.com">xyz@gmail.com</a>
+  return (
+    <footer className="bg-gray-800 text-white">
+      <div className="bg-white h-7"></div> {/* White strip */}
+      <div className="container mx-auto py-8 px-4">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="text-center md:text-left">
+            <h3 className="text-2xl font-bold mb-4">ACM WiNS</h3>
+            <p className="mb-4">
+            Network Science has been an active area of research for the last two decades. This school will introduce the students to the field, make them familiar with some of the fundamental results and approaches, and in particular, demonstrate its impact on multiple disciplines including biology, economics and the social sciences.
             </p>
           </div>
-        </div>
-        <div className="footer-right">
-          <p className="footer-company-about">
-            <span>About the company</span>
-            <strong>Sagar Developer</strong> is a Youtube channel where you can find more creative CSS Animations and Effects along with HTML, JavaScript, and Projects using C/C++.
-          </p>
-          <div className="footer-icons">
-            <a href="#"><i className="fa fa-facebook"></i></a>
-            <a href="#"><i className="fa fa-instagram"></i></a>
-            <a href="#"><i className="fa fa-linkedin"></i></a>
-            <a href="#"><i className="fa fa-twitter"></i></a>
-            <a href="#"><i className="fa fa-youtube"></i></a>
+          <div className="text-center"> {/* Centered content */}
+            <h5 className="text-xl font-bold mb-4">Quick Links</h5>
+            <ul className="mb-4">
+              <li><a href="/" className="text-gray-400 hover:text-white">SCHEDUEL</a></li>
+              <li><a href="/" className="text-gray-400 hover:text-white">SPEAKERS</a></li>
+              <li><a href="/" className="text-gray-400 hover:text-white">TEAM</a></li>
+              <li><a href="/" className="text-gray-400 hover:text-white">VENUE</a></li>
+              <li><a href="/" className="text-gray-400 hover:text-white">RESOURCES</a></li>
+            </ul>
+          </div>
+          <div className="text-center"> {/* Centered content */}
+            <h5 className="text-xl font-bold mb-4">Contact Information</h5>
+            <p className="mb-2"><i className="fa fa-phone"></i> +91 9601292334</p>
+            <p className="mb-2"><i className="fa fa-envelope"></i> jineet.s@ahduni.edu.in</p>
+            <p><i className="fa fa-paper-plane"></i> Address, Ahmedabad, Gujarat.</p>
           </div>
         </div>
-      </footer>
-      </container>
-    );
-  }
-  
-  export default Footer;
+      </div>
+      {/* <div className="bg-gray-900 py-4 text-center">
+        <p className="text-white">Ahmedabad University</p>
+      </div> */}
+    </footer>
+  );
+}
+
+export default Footer;
