@@ -54,7 +54,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Sougata (Tutorial) - Gephi NodeXL"
+                    event: "Network Visualisation: Sougata Mukherjea"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -62,7 +62,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Sougata"
+                    event: "Network Visualisation: Sougata Mukherjea"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -70,7 +70,7 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Loyimee - strategic nwf (1)"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "3:15 - 4:45",
@@ -83,10 +83,6 @@ export const data = {
                 {
                     time: "6:00 - 7:00",
                     event: "Sports"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
                 }
             ]
         },
@@ -99,7 +95,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Loyimee - strategic nwf (2)"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -107,7 +103,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Amit - Telecom"
+                    event: "Network Analysis in Telecom: Amit Nanavati"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -115,7 +111,7 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Amit - Telecom"
+                    event: "Network Analysis in Telecom: Amit Nanavati"
                 },
                 {
                     time: "3:15 - 4:45",
@@ -152,7 +148,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Sitabhra"
+                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -160,19 +156,11 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Sitabhra"
-                },
-                {
-                    time: "3:15 - 4:45",
-                    event: "Santhanam"
+                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
                 },
                 {
                     time: "4:45 - 5:30",
                     event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: ""
                 },
                 {
                     time: "7:30 - 8:15",
@@ -189,7 +177,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Sitabhra"
+                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -197,7 +185,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Santhanam"
+                    event: "Dynamics on Complex Networks: M.S. Santhanam"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -205,11 +193,11 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Santhanam"
+                    event: "Dynamics on Complex Networks: M.S. Santhanam"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Santhanam"
+                    event: "Dynamics on Complex Networks: M.S. Santhanam"
                 },
                 {
                     time: "4:45 - 5:30",
@@ -234,7 +222,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Santhanam"
+                    event: "Hate Speech Detection and Spread: Seema Nagar"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -242,7 +230,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Seema"
+                    event: "Games on Networks: Ramasuri Narayanam"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -250,7 +238,7 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Suri"
+                    event: "Games on Networks: Ramasuri Narayanam"
                 },
                 {
                     time: "3:15 - 4:45",
@@ -279,7 +267,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Seema"
+                    event: "Hate Speech Detection and Spread: Seema Nagar"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -300,7 +288,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Ramasuri"
+                    event: "Games on Networks: Ramasuri Narayanam"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -308,7 +296,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Sayan"
+                    event: "Sayan Ranu"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -316,7 +304,7 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Sayan"
+                    event: "Sayan Ranu"
                 },
                 {
                     time: "4:45 - 5:30",
@@ -341,7 +329,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Sayan"
+                    event: "Sayan Ranu"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -349,7 +337,7 @@ export const data = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Nitendra"
+                    event: "Graph Learning: Nitendra Rajput"
                 },
                 {
                     time: "12:30 - 1:30",
@@ -357,7 +345,7 @@ export const data = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Nitendra"
+                    event: "Graph Learning: Nitendra Rajput"
                 },
                 {
                     time: "4:45 - 5:30",
@@ -382,7 +370,7 @@ export const data = {
                 },
                 {
                     time: "9:00 - 10:30",
-                    event: "Nitendra"
+                    event: "Graph Learning: Nitendra Rajput"
                 },
                 {
                     time: "10:30 - 10:45",
@@ -399,10 +387,6 @@ export const data = {
                 {
                     time: "4:45 - 5:30",
                     event: "High-Tea"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
                 }
             ]
         }

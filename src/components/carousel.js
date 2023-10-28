@@ -29,8 +29,8 @@ const Carousel = () => {
                     />
                     <div className="carousel-text bg-white bg-opacity-50 backdrop-filter backdrop-blur-lg absolute top-1/2 right-0 transform -translate-y-1/2 w-1/2 p-6">
                         <div className="carousel-text-content">
-                            <h2 className="text-2xl font-bold mb-4">ACM WiNS 2023</h2>
-                            <p className="text-base leading-relaxed">
+                            <h2 className="text-2xl font-bold mb-4 text-black">ACM WiNS 2023</h2>
+                            <p className="text-base leading-relaxed text-black font-bold">
                                 Network Science has been an active area of research for the last two decades. 
                                 This school will introduce the students to the field, make them familiar with 
                                 some of the fundamental results and approaches, and in particular, demonstrate 
