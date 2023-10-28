@@ -15,7 +15,7 @@ const SpeakerPage = () => (
 
         <div className="grid gap-y-6">
           {data.Speakers.map((speaker, index) => (
-            <div key={index} className="bg-white shadow-lg rounded-lg mx-6 md:flex items-center">
+            <div id={speaker.name} key={index} className="bg-white shadow-lg rounded-lg mx-6 md:flex items-center">
               <img className="w-full h-90 object-cover rounded-t-lg md:w-1/3 md:h-auto md:rounded-l-none" src={speaker.imageUrl} alt={speaker.name} />
               <div className="p-6 md:w-2/3">
                 <div className="flex flex-col h-full justify-center">
@@ -28,7 +28,7 @@ const SpeakerPage = () => (
         </div>
       </section>
     </div>
-    <Footer/>
+    <Footer />
   </>
 )
 

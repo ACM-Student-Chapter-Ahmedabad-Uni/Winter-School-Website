@@ -13,16 +13,27 @@ import {
 import { data } from "../../static/data/schedule_data.js"
 
 export function AccordionCustomStyles() {
+    
     const [open, setOpen] = React.useState(0);
 
     const handleOpen = (value) => setOpen(open === value ? 0 : value);
 
+    // Add this useEffect hook
+    React.useEffect(() => {
+        const hash = window.location.hash;
+        if (hash.startsWith("#day")) {
+            const dayNumber = parseInt(hash.replace("#day", ""));
+            if (!isNaN(dayNumber)) {
+                handleOpen(dayNumber);
+            }
+        }
+    }, []);
+
     return (
         <>
             {data.Days.map((day, index) => (
-                <Accordion onClick={() => handleOpen(index + 1)} open={open === index + 1} className="mb-2 rounded-lg border border-blue-gray-100 px-4" key={index}>
+                <Accordion id={`day${index + 1}`} onClick={() => handleOpen(index + 1)} open={open === index + 1} className="mb-2 rounded-lg border border-blue-gray-100 px-4" key={index}>
                     <AccordionHeader
-                        
                         className={`border-b-0 transition-colors ${open === index + 1 ? "text-blue-500 hover:!text-blue-700" : ""
                             }`}
                     >
