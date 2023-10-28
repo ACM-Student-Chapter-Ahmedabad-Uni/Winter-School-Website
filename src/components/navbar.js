@@ -38,6 +38,7 @@ function TextLinkExample() {
               <a href="/speakers" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">SPEAKERS</a>
               <a href="/team" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">TEAM</a>
               <a href="/venue" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">VENUE</a>
+              <a href="/resources" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">RESOURCES</a>
             </div>
           </div>
           <div className="absolute inset-y-0 right-0 flex items-center sm:hidden">

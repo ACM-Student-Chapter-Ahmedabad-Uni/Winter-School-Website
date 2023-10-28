@@ -1,13 +1,8 @@
 export const data = {
     "Team": [
         {
-            "name": "Amit Nanavati",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164469844834533386/300_x_400_amit_nanavati-1.png?ex=6543540d&is=6530df0d&hm=acb46162effb7cb04791abbd7782e4875699e7870ecd68331c910df050d33b27&",
-            "title": "Faculty Mentor"
-        },
-        {
             "name": "Paridhi Jain",
-            "imageUrl": "https://example.com/paridhi.jpg",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167787587809841152/99dd5230-e5c8-4a24-849c-fae5b81a33c3.png?ex=654f65f1&is=653cf0f1&hm=6d140c6c2d4f2f9479bddaf41350ee11470c93edf7bc8b103e35d9025ca1395b&",
             "title": "Chair"
         },
         {
@@ -37,7 +32,7 @@ export const data = {
         },
         {
             "name": "Krutarth Vora",
-            "imageUrl": "",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167787812804890676/image.png?ex=654f6627&is=653cf127&hm=70de7513e1f82a342aa291a420ee6f878140be23228575f3d17860f58756a6dc&",
             "title": ""
         }
     ]
