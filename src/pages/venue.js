@@ -12,41 +12,45 @@ const AhmedabadVenuePage = () => (
           Welcome to Ahmedabad!
         </h2>
         <p className="text-left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel
-          arcu in neque tristique blandit.
+        Located in the heart of Gujarat, Ahmedabad is defined by a spirit of enterprise, 
+        and houses several reputed educational institutions and heritage sites. Associated with 
+        Mahatma Gandhi and his Ashram in Sabarmati, Ahmedabad is also home to some of the finest 
+        medieval and modern architecture in the country. Complete with modern amenities like malls 
+        and multiplexes, and superior public infrastructure, Named as India's first heritage city by 
+        UNESCO, it offers plenty to explore between a rich heritage, abundant museums, colourful 
+        festivals, and a mélange of cultural activities. Ahmedabad is also an industrial town with a 
+        rich history of textiles, pharmaceutical, chemicals, auto and auto components, and engineering industries.
         </p>
-      </section>
-
-      <section className="mb-16">
-        <h3 className="mb-4 text-2xl font-semibold text-left">About Ahmedabad</h3>
-        <p className="text-left">
-          Ahmedabad, the largest city in the state of Gujarat, is known for its
-          rich cultural heritage, historical landmarks, and vibrant
-          atmosphere. It is a perfect blend of traditional charm and modern
-          development.
-        </p>
-        {/* Add more information about Ahmedabad */}
-      </section>
-
-      <section className="mb-16">
-        <h3 className="mb-4 text-2xl font-semibold text-left">Conference Venue</h3>
-        <p className="text-left">
-          The conference will be hosted at the prestigious Ahmedabad University,
-          located in the heart of the city. The venue provides state-of-the-art
-          facilities and an inspiring environment for academic discussions and
-          networking.
-        </p>
-        {/* Add more information about the venue */}
       </section>
 
 
       <section className="mb-16">
-        <h3 className="mb-4 text-2xl font-semibold text-left">Getting Around</h3>
+        <h3 className="mb-4 text-1xl font-semibold text-left">Getting Around</h3>
+        <h4 className="mb-4 text-1xl font-semibold text-left">Auto Rickshaws</h4>
         <p className="text-left">
-          Ahmedabad has a well-connected public transportation system,
-          including buses, auto-rickshaws, and cabs. Additionally, the city
-          offers a range of options for exploring its attractions.
+        Available throughout the city, metered auto rickshaws are a favourite mode of transport for 
+        residents.
         </p>
+        <h4 className="mb-4 text-2xl font-semibold text-left">Local Buses</h4>
+        <p className="text-left"> 
+        Run by the Ahmedabad Municipal Transport Services (AMTS), buses are the most common means of 
+        public transport in the city. Two University bus stops are located within walking distance of 
+        the Campus that connects to most of Ahmedabad. Also, across the road from the administration 
+        building is the Bus Rapid Transport System (BRTS) corridor, a bus service that runs in 
+        dedicated lanes in the middle of the road, saving time on long distance commutes.
+        </p>
+
+        <h4 className="mb-4 text-2xl font-semibold text-left">Distance to Ahmedabad University</h4>
+        <p className="text-left">
+        From Ahmedabad Railway Station (Kalupur) - 7 km 
+        </p>
+        <p className="text-left">
+        From Ahmedabad Bus Station (Gita Mandir) - 7 km
+        </p>
+        <p className="text-left">
+        From Ahmedabad Airport - 11 km
+        </p>
+         
         {/* Add tips for getting around the city */}
       </section>
     </div>
