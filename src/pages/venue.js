@@ -39,6 +39,15 @@ const AhmedabadVenuePage = () => (
         building is the Bus Rapid Transport System (BRTS) corridor, a bus service that runs in 
         dedicated lanes in the middle of the road, saving time on long distance commutes.
         </p>
+        <h4 className="mb-4 text-2xl font-semibold text-left">Ahmedabad Metro</h4>
+        <p className="text-left">
+        The Ahmedabad Metro is a convenient mode of transportation in the city, offering a fast and 
+        efficient way to travel. The metro system connects various parts of Ahmedabad, 
+        making it easier for residents and visitors to get around. Commerce Six Roads is the nearest 
+        metro station from the campus. Be sure to check the metro's schedule and routes for a 
+        hassle-free commuting experience.
+        </p>
+
 
         <h4 className="mb-4 text-2xl font-semibold text-left">Distance to Ahmedabad University</h4>
         <p className="text-left">
