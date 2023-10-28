@@ -29,7 +29,7 @@ function TextLinkExample() {
         <div className="relative flex items-center justify-between h-16">
           <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex-shrink-0 flex items-center">
-              <a href="/" className="text-2xl font-bold text-black">ACM Ahmedabad University</a>
+              <a href="/" className="text-2xl font-bold text-black">ACM x Ahmedabad University</a>
             </div>
           </div>
           <div className="hidden sm:block sm:ml-6">
@@ -38,7 +38,6 @@ function TextLinkExample() {
               <a href="/speakers" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">SPEAKERS</a>
               <a href="/team" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">TEAM</a>
               <a href="/venue" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">VENUE</a>
-              <a href="/accommodation" className="px-3 py-2 rounded-md text-sm font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">ACCOMMODATION</a>
             </div>
           </div>
           <div className="absolute inset-y-0 right-0 flex items-center sm:hidden">
@@ -62,7 +61,7 @@ function TextLinkExample() {
               <a href="/speakers" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">SPEAKERS</a>
               <a href="/team" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">TEAM</a>
               <a href="/venue" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">VENUE</a>
-              <a href="/accommodation" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">ACCOMMODATION</a>
+
             </div>
           </div>
         </div>
