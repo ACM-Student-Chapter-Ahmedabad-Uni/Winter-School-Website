@@ -9,7 +9,7 @@ function Footer() {
           <div className="text-center md:text-left">
             <h3 className="text-2xl font-bold mb-4">ACM WiNS</h3>
             <p className="mb-4">
-            Network Science has been an active area of research for the last two decades. This school will introduce the students to the field, make them familiar with some of the fundamental results and approaches, and in particular, demonstrate its impact on multiple disciplines including biology, economics and the social sciences.
+            Network science has been an active area of research for the last two decades. The Winter School will introduce the students to the field, make them familiar with some of the fundamental results and approaches, and, in particular, demonstrate its impact on multiple disciplines, including biology, economics, and the social sciences.
             </p>
           </div>
           <div className="text-center"> {/* Centered content */}

@@ -3,7 +3,10 @@ export const data = {
         {
             "name": "Yatri Mehta",
             "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1168585864780185600/03b7da35-0cc8-406d-9033-0132f5130c8c.png?ex=65524d65&is=653fd865&hm=512a396ae9a6d829320240ace6c9dd49243b43dfe7cf0c96c024fd45f8f389d3&",
-            "title": ""
+            "title": "",
+            "socials": {
+                "linkedin":""
+            }
         },
         {
             "name": "Paridhi Jain",

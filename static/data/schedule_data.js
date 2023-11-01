@@ -1,7 +1,7 @@
 export const data = {
     "Days": [
         {
-            "Day": "Mon, 11 December",
+            "Day": "Monday, December 11, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -46,7 +46,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Tue, 12 December",
+            "Day": "Tuesday, December 12, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -87,7 +87,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Wed, 13 December",
+            "Day": "Wednesday, December 13, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -132,7 +132,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Thu, 14 December",
+            "Day": "Thursday, December 14, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -169,7 +169,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Fri, 15 December",
+            "Day": "Friday, December 15, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -214,7 +214,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Sat, 16 December",
+            "Day": "Saturday, December 16, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -251,7 +251,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Sun, 17 December",
+            "Day": "Sunday, December 17, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -280,7 +280,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Mon, 18 December",
+            "Day": "Monday, December 18, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -321,7 +321,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Tue, 19 December",
+            "Day": "Tuesday, December 19, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",
@@ -362,7 +362,7 @@ export const data = {
             ]
         },
         {
-            "Day": "Wed, 20 December",
+            "Day": "Wednesday, December 20, 2023",
             "Schedule": [
                 {
                     time: "8:00 - 8:45",

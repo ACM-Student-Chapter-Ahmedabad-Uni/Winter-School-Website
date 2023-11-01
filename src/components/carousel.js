@@ -31,10 +31,7 @@ const Carousel = () => {
                         <div className="carousel-text-content">
                             <h2 className="text-2xl font-bold mb-4 text-black">ACM WiNS 2023</h2>
                             <p className="text-base leading-relaxed text-black font-bold">
-                                Network Science has been an active area of research for the last two decades. 
-                                This school will introduce the students to the field, make them familiar with 
-                                some of the fundamental results and approaches, and in particular, demonstrate 
-                                its impact on multiple disciplines including biology, economics and the social sciences.
+                            Network science has been an active area of research for the last two decades. The Winter School will introduce the students to the field, make them familiar with some of the fundamental results and approaches, and, in particular, demonstrate its impact on multiple disciplines, including biology, economics, and the social sciences.
                             </p>
                         </div>
                     </div>
