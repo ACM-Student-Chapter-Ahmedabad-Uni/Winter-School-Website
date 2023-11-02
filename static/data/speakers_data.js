@@ -25,7 +25,7 @@ export const data = {
     {
       "name": "M.S. Santhanam",
       "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164494712506417172/5d8c1357-f6e3-4124-8f08-c20c1d5efbc7.png?ex=65436b36&is=6530f636&hm=4a8e376272b61e56c52d6c3ee51da22f32970833f591fa4f8b75af65244dae3d&https://example.com/nitendra.jpg",
-      "title": "M S Santhanam is a distinguished professor of physics at the Indian Institute of Science Education and Research (IISER) in Pune, India. His research focus encompasses a diverse range of fields including nonlinear dynamics, quantum computing, quantum chaos, statistical physics, complex systems, and extreme events. For further details on his research interests and publications, you can visit his webpage at www.iiserpune.ac.in/~santh. Additionally, he is an active member of the I-Hub Quantum Technology Foundation, hosted at IISER Pune. Beyond academia, M S Santhanam holds a keen interest in Indian politics, science and technology matters, as well as higher education. In his free time, he engages in writing popular articles for leading newspapers and magazines, contributing insights on science and various topics of personal interest. You can find links to his published pieces on his webpage at https://sites.iiserpune.ac.in/~santh."
+      "title": `M S Santhanam is a distinguished professor of physics at the Indian Institute of Science Education and Research (IISER) in Pune, India. His research focus encompasses a diverse range of fields including nonlinear dynamics, quantum computing, quantum chaos, statistical physics, complex systems, and extreme events. Additionally, he is an active member of the I-Hub Quantum Technology Foundation, hosted at IISER Pune. Beyond academia, M S Santhanam holds a keen interest in Indian politics, science and technology matters, as well as higher education. In his free time, he engages in writing popular articles for leading newspapers and magazines, contributing insights on science and various topics of personal interest.`
     },
     {
       "name": "Sayan Ranu",   
@@ -46,7 +46,7 @@ export const data = {
     {
       "name": "Amit Nanavati",
       "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164469844834533386/300_x_400_amit_nanavati-1.png?ex=6543540d&is=6530df0d&hm=acb46162effb7cb04791abbd7782e4875699e7870ecd68331c910df050d33b27&", // Add the image URL for Amit Nanavati
-      "title": "Title for Amit Nanavati"
+      "title": 'Amit A. Nanavati is a Professor at Ahmedabad University and an Adjunct Professor at IIT Delhi. Prior to this, Amit was a Senior Technical Lead for Cognitive Automation Solutions at IBM GTS Innovation Labs (2016-21), and a part of IBM Research (2000-16). He is very interested in trying to get insights from data, especially using Network Science.  He co-authored a book on "Speech in Mobile and Pervasive Environments" published by John Wiley, UK in 2012.  He became an ACM Distinguished Speaker in 2014, and an ACM Distinguished Scientist in 2015.'
     }
   ]
 }
