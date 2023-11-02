@@ -37,7 +37,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Infinity Band"
+                    event: "Activities"
                 },
                 {
                     time: "7:30 - 8:15",
@@ -82,7 +82,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Sports"
+                    event: "Activities"
                 }
             ]
         },
@@ -123,7 +123,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Garba Workshop"
+                    event: "Activities"
                 },
                 {
                     time: "7:30 - 8:15",
@@ -137,10 +137,6 @@ export const data = {
                 {
                     time: "8:00 - 8:45",
                     event: "Breakfast"
-                },
-                {
-                    time: "9:00 - 10:30",
-                    event: ""
                 },
                 {
                     time: "10:30 - 10:45",
@@ -205,7 +201,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Theatre Club"
+                    event: "Activities"
                 },
                 {
                     time: "7:30 - 8:15",
@@ -312,7 +308,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Dance Club"
+                    event: "Activities"
                 },
                 {
                     time: "7:30 - 8:15",
@@ -353,7 +349,7 @@ export const data = {
                 },
                 {
                     time: "6:00 - 7:00",
-                    event: "Garba"
+                    event: "Activities"
                 },
                 {
                     time: "7:30 - 8:15",
