@@ -49,7 +49,7 @@ export function AccordionCustomStyles() {
                                             <p className="text-sm md:text-base lg:text-lg">{event.time}</p>
                                         </TimelineIcon>
                                         <div className="flex flex-col md:flex-row gap-1">
-                                            <Typography variant="h6" color="blue-gray" className="text-sm md:text-base lg:text-lg">
+                                            <Typography variant="h7" color="blue-gray" className="text-sm md:text-base lg:text-lg">
                                                 {event.event}
                                             </Typography>
                                         </div>
