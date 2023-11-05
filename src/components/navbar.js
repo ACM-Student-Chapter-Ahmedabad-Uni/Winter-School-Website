@@ -9,7 +9,7 @@ function TextLinkExample() {
 
   return (
     <Navbar expand="lg">
-        <Navbar.Brand href="/" className="text-2xl font-bold text-black ml-6 no-underline hover:underline">ACM x Ahmedabad University</Navbar.Brand>
+        <Navbar.Brand href="/" className="text-sm sm:text-base md:text-lg lg:text-xl font-bold text-black no-underline hover:underline">ACM x Ahmedabad University</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
         <Nav className='mr-6'>
