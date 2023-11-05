@@ -2,13 +2,13 @@ export const data = {
   "Speakers": [
     {
       "name": "Sougata Mukherjea",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164492156786974750/1516485126515.png?ex=654368d5&is=6530f3d5&hm=c6cea0778215c10393715d39278b9d23220064be1e064d47430e757431f0555e&",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1169655575823532153/SM_1.jpg?ex=655631a4&is=6543bca4&hm=8d2a159a4cf069d4f564cda7fdd16d30aee3a2cf4ae0fb161faa91442541cde0&",
       "title": `
       Sougata Mukherjee is a seasoned professional with a rich background in technology. He serves as a Professor of Practice in Computer Technology at IIT Delhi, bringing over a decade of experience in Project Management and Strategy Formation from his time at IBM. With 15+ years in R&D across prominent tech companies, including IBM, BEA, Inktomi, and NEC Research, Sougata holds expertise in Analytics, AI, Visualization, and Cloud technologies. He is proficient in Java and Python, and has led pivotal projects at IBM. Noteworthy accolades include the title of IBM Master Inventor, boasting numerous US patents, and a research citation count exceeding 5000. Sougata is a PhD holder in Computer Science from Georgia Tech.`
     },
     {
       "name": "Seema Nagar",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164492521079058432/1614762902489.png?ex=6543692c&is=6530f42c&hm=d8af2d38c05296f666b9ffa1cf12880f00fd4a6a40f11faebeeaedd15a38dcf1&",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1170234477075759104/Seema1.jpg?ex=65584cc9&is=6545d7c9&hm=2d46f37b267c0edc7be2af95c44986898d44be45a291fb5dea1d2c1568092d76&",
       "title": `
       Seema Nagar is a distinguished staff research scientist at IBM Research India, with a remarkable fifteen-year tenure in computer science research. Her contributions are underscored by over 50 publications in esteemed conferences and journals, along with an impressive portfolio of 150+ filed patents. Named a master inventor for two consecutive terms, Seema has also played a pivotal role in reviewer committees for conferences like IJCAI, NAACL, and ACL. Her outstanding work on social network analysis and trustworthy AI has earned her several Research Awards, including three Outstanding Technical Achievement Awards at IBM Research India. A dedicated mentor, she actively guides numerous researchers and students in the lab. Seema holds B. Tech. and M. Tech. degrees in Computer Science and Engineering from IIT, Guwahati (2007) and IIT, Delhi (2011) respectively. Currently, she is pursuing a part-time PhD from IIIT, Guwahati.`
     },
@@ -19,7 +19,7 @@ export const data = {
     },
     {
       "name": "Ramasuri Narayanam",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164494369068433479/image.png?ex=65436ae4&is=6530f5e4&hm=7a483eac8e642b55354d50d04ebc7863223b61a762ff503f9da69ab5eebd784b&",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1169655462489231371/Ramasuri.Narayanam.png?ex=65563189&is=6543bc89&hm=7650361f19a20594d7fa2642e23f668d18eb27cb10919f7db885757999097c3e&",
       "title": "Ramasuri Narayani is a Senior Research Scientist at Adobe Research, bringing over a decade of expertise in Artificial Intelligence (AI) solutions. Previously at IBM Research – India, he held the title of IBM Master Inventor, showcasing his proficiency in developing innovative analytics solutions across various sectors including telcos, retail, and technology domains like social media and business workflow analytics. Ramasuri boasts an extensive IP portfolio, with over 30 peer-reviewed research articles and 35+ granted patents. Recognized as an IEEE Senior Member and ACM Distinguished Speaker, he has received accolades, including the Best Ph.D. Thesis award from the Computer Society of India. Ramasuri actively contributes to conferences like IJCAI, AAAI, WWW, and CIKM, and enjoys pursuits like driving, traveling, and exploring new places."
     },
     {
@@ -27,12 +27,12 @@ export const data = {
       "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164494712506417172/5d8c1357-f6e3-4124-8f08-c20c1d5efbc7.png?ex=65436b36&is=6530f636&hm=4a8e376272b61e56c52d6c3ee51da22f32970833f591fa4f8b75af65244dae3d&https://example.com/nitendra.jpg",
       "title": `M S Santhanam is a distinguished professor of physics at the Indian Institute of Science Education and Research (IISER) in Pune, India. His research focus encompasses a diverse range of fields including nonlinear dynamics, quantum computing, quantum chaos, statistical physics, complex systems, and extreme events. Additionally, he is an active member of the I-Hub Quantum Technology Foundation, hosted at IISER Pune. Beyond academia, M S Santhanam holds a keen interest in Indian politics, science and technology matters, as well as higher education. In his free time, he engages in writing popular articles for leading newspapers and magazines, contributing insights on science and various topics of personal interest.`
     },
-    {
-      "name": "Sayan Ranu",   
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164496064343183371/1516303637658.png?ex=65436c79&is=6530f779&hm=dfe0f3639eebc4f8174eac40eab490d50c5242ff81268f42cc5393012e239229&",
-      "title": `
-      Sayan Ranu holds the esteemed Nick McKeown Chair Associate Professorship at the Department of Computer Science and Engineering, as well as the Yardi School of AI at IIT Delhi. His research is centered in the domain of network science, with a specific emphasis on graph neural networks and spatio-temporal data analytics. The tag-cloud of his recent paper abstracts effectively encapsulates his current research pursuits. Sayan completed his graduate studies in the Computer Science department at the University of California, Santa Barbara in March 2012, working under the mentorship of Prof. Ambuj Singh. Prior to his current position, he served as an Assistant Professor at IIT Madras for nearly three years and spent a year and a half at IBM Research, Bangalore.`
-    },
+    // {
+    //   "name": "Sayan Ranu",   
+    //   "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164496064343183371/1516303637658.png?ex=65436c79&is=6530f779&hm=dfe0f3639eebc4f8174eac40eab490d50c5242ff81268f42cc5393012e239229&",
+    //   "title": `
+    //   Sayan Ranu holds the esteemed Nick McKeown Chair Associate Professorship at the Department of Computer Science and Engineering, as well as the Yardi School of AI at IIT Delhi. His research is centered in the domain of network science, with a specific emphasis on graph neural networks and spatio-temporal data analytics. The tag-cloud of his recent paper abstracts effectively encapsulates his current research pursuits. Sayan completed his graduate studies in the Computer Science department at the University of California, Santa Barbara in March 2012, working under the mentorship of Prof. Ambuj Singh. Prior to his current position, he served as an Assistant Professor at IIT Madras for nearly three years and spent a year and a half at IBM Research, Bangalore.`
+    // },
     {
       "name": "Sitabhra Sinha",
       "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1165650350603247616/sitabhra-sinha.png?ex=65479f7c&is=65352a7c&hm=b6ac49d8f27f14c08acecb24be8258fd9f62119c84dd742e4070105878973295&",
