@@ -30,7 +30,7 @@ export const data = {
         },
         {
             "name": "Dhruvi Rajput",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1169655091628879983/d8b324cd-9092-4b07-85d7-ed60d8deea08.png?ex=65563130&is=6543bc30&hm=c93760e68cb33288fb8760d72bde583e794c0dc9981947eca0cff408cf479c3a&",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1170958396392996994/b33bbd4a-267b-44b4-b773-b2cec649f8f6.png?ex=655aeefd&is=654879fd&hm=0bd37fcf1b5b25da251aebb5077591a18384cc99ada8deea6f6284b23c60e1a0&",
             "title": "Communication Manager"
         },
         {
