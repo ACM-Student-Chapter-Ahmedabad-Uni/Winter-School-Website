@@ -8,11 +8,11 @@ export const data = {
                 "linkedin":""
             }
         },
-        {
-            "name": "Paridhi Jain",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167787587809841152/99dd5230-e5c8-4a24-849c-fae5b81a33c3.png?ex=654f65f1&is=653cf0f1&hm=6d140c6c2d4f2f9479bddaf41350ee11470c93edf7bc8b103e35d9025ca1395b&",
-            "title": "Web Designer"
-        },
+        // {
+        //     "name": "Paridhi Jain",
+        //     "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167787587809841152/99dd5230-e5c8-4a24-849c-fae5b81a33c3.png?ex=654f65f1&is=653cf0f1&hm=6d140c6c2d4f2f9479bddaf41350ee11470c93edf7bc8b103e35d9025ca1395b&",
+        //     "title": "Web Designer"
+        // },
         {
             "name": "Harsh Bhagat",
             "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167017128239562792/1672798476873.png?ex=654c9865&is=653a2365&hm=3981c0ec3b763d2e405dda10d8e76341bd692ee2bb2ae710043f8480fb61a980&",
