@@ -40,12 +40,12 @@ export const data = {
     },
     {
       "name": "Loyimee Gogoi",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1167017704499195924/300_x_400_loyimee_gogoi-1.png?ex=654c98ee&is=653a23ee&hm=315983d46b43f996facc59734074ba14b81443aa916bada73e29375d811b0893&",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1172037136879472710/Loyimee_gogoi.JPG?ex=655edba4&is=654c66a4&hm=e627190ba7ce1645143e7916e2a82e33243c93e8a2d71397ead497a9a9af09d7&",
       "title": "Loyimee Gogoi is an Assistant Professor at Amrut Mody School of Management, Ahmedabad University. She earned her MSc in Mathematics (Tezpur University), and PhD in Mathematics (Dibrugarh University). She was a researcher at Northwestern Polytechnical University, Xi’an, China from September 2019 to August 2021. She worked as a researcher in other institutes like Queen’s University Belfast (QUB), the UK and Indian Statistical Institute, Kolkata. Before joining Ahmedabad University, she was an Assistant Professor at Xavier's Institute of Management and Entrepreneurship, Chennai. Professor Gogoi has four years of experience in research. Her research area is Cooperative Game Theory and its applications in networks. She has several publications at European Journal of Operational Research, Operational Research, TOP, Mathematical Social Sciences, and International Journal of Economic Theory etc."
     },
     {
       "name": "Amit Nanavati",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1170921613986893844/IMG_0653.png?ex=655accbb&is=654857bb&hm=e7dc2d568e24c29ad444ba3169bbe3ba5054e2aefe1abdc0af96a97ee5c71d6f&",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1164468767175233536/1164469844834533386/300_x_400_amit_nanavati-1.png?ex=6543540d&is=6530df0d&hm=acb46162effb7cb04791abbd7782e4875699e7870ecd68331c910df050d33b27&",
       "title": 'Amit A. Nanavati is a Professor at Ahmedabad University and an Adjunct Professor at IIT Delhi. Prior to this, Amit was a Senior Technical Lead for Cognitive Automation Solutions at IBM GTS Innovation Labs (2016-21), and a part of IBM Research (2000-16). He is very interested in trying to get insights from data, especially using Network Science.  He co-authored a book on "Speech in Mobile and Pervasive Environments" published by John Wiley, UK in 2012.  He became an ACM Distinguished Speaker in 2014, and an ACM Distinguished Scientist in 2015.'
     }
   ]
