@@ -18,17 +18,6 @@ export function AccordionCustomStyles() {
 
     const handleOpen = (value) => setOpen(open === value ? 0 : value);
 
-    // Add this useEffect hook
-    React.useEffect(() => {
-        const hash = window.location.hash;
-        if (hash.startsWith("#day")) {
-            const dayNumber = parseInt(hash.replace("#day", ""));
-            if (!isNaN(dayNumber)) {
-                handleOpen(dayNumber);
-            }
-        }
-    });
-
     return (
         <>
             {data.Days.map((day, index) => (
