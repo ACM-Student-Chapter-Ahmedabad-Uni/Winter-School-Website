@@ -12,7 +12,7 @@ const SchedulePage = () => (
     <Navbar />
     <section>
       <div className="container px-4 py-16 mx-auto space-y-8 lg:max-w-3xl">
-        <h2 className="text-2xl font-bold md:text-4xl text-center">Schedule</h2>
+        <h2 className="text-2xl font-bold md:text-4xl text-center">Tentative Schedule</h2>
         <div className="space-y-8">
           <AccordionCustomStyles />
         </div>
