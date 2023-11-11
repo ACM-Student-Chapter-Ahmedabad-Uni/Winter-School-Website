@@ -8,7 +8,7 @@ import './navbar-style.css';
 function TextLinkExample() {
   return (
     <Navbar expand="lg">
-      <Navbar.Brand href="/" className="text-sm sm:text-base md:text-lg lg:text-xl font-bold text-black no-underline hover:underline">
+      <Navbar.Brand href="/" className="text-sm sm:text-base md:text-lg lg:text-xl font-bold text-black no-underline hover:underline" style={{ marginLeft: '10px' }}>
         ACM x Ahmedabad University
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -31,8 +31,6 @@ function TextLinkExample() {
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
-
-      
     </Navbar>
   );
 }
