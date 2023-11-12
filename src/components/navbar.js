@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Nav } from 'react-bootstrap';
 import { Navbar } from 'react-bootstrap';
-import { Card } from 'react-bootstrap'; // Import Card component
+// import { Card } from 'react-bootstrap'; // Import Card component
 import './navbar-style.css';
 
 function TextLinkExample() {
