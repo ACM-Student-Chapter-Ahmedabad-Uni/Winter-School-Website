@@ -15,6 +15,7 @@ module.exports = {
     siteUrl: `https://acm-au.vercel.app/`,
   },
   plugins: [
+    'gatsby-plugin-vercel',
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
     {
