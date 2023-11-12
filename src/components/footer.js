@@ -28,7 +28,7 @@ function Footer() {
                 <li><a href="/speakers" className="text-gray-400 hover:text-white">SPEAKERS</a></li>
                 <li><a href="/team" className="text-gray-400 hover:text-white">TEAM</a></li>
                 <li><a href="/venue" className="text-gray-400 hover:text-white">VENUE</a></li>
-                <li><a href="/resources" className="text-gray-400 hover:text-white">RESOURCES</a></li>
+                {/* <li><a href="/resources" className="text-gray-400 hover:text-white">RESOURCES</a></li> */}
               </ul>
             }
           />
@@ -40,6 +40,7 @@ function Footer() {
                 {/* <p><i className="fa fa-envelope"></i>Yatri Mehta</p>
                 <p><i className="fa fa-phone"></i> +91 9974093646</p> */}
                 <p><i className="fa fa-envelope"></i>juhi.bansal@ahduni.edu.in</p>
+                <p><i className="fa fa-envelope"></i>yatri.mehta@ahduni.edu.in</p>
               </>
             }
           />
