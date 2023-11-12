@@ -37,9 +37,9 @@ function Footer() {
             title="Contact Information"
             content={
               <>
-                <p><i className="fa fa-envelope"></i>Yatri Mehta</p>
-                <p><i className="fa fa-phone"></i> +91 9974093646</p>
-                <p><i className="fa fa-envelope"></i> yatri.mehta@ahduni.edu.in</p>
+                {/* <p><i className="fa fa-envelope"></i>Yatri Mehta</p>
+                <p><i className="fa fa-phone"></i> +91 9974093646</p> */}
+                <p><i className="fa fa-envelope"></i>juhi.bansal@ahduni.edu.in</p>
               </>
             }
           />
