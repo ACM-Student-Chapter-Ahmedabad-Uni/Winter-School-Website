@@ -9,13 +9,13 @@ export const data = {
       {
         "topic": "Strategic Network Formation",
         "professor": "Loyimee Gogoi",
-        "days": [2,3],
+        "days": [1,2,3,8],
         "imageUrl": "../images/StrategicNetworkFormation.png"
       },
       {
         "topic": "Network Analysis in Telecom",
         "professor": "Amit Nanavati",
-        "days": [3],
+        "days": [1,3,4,8],
         "imageUrl": "../images/NetworkAnalysisInTelecom.png"
       },
       {
@@ -27,25 +27,25 @@ export const data = {
       {
         "topic": "Dynamics on Complex Networks",
         "professor": "M.S. Santhanam",
-        "days": [5,6],
+        "days": [5],
         "imageUrl": "../images/DynamicsOnComplexNetworks.png"
       },
       {
         "topic": "Hate Speech Detection and Spread",
         "professor": "Seema Nagar",
-        "days": [7,8],
+        "days": [6],
         "imageUrl": "../images/HateSpeechDetectionAndSpread.png"
       },
       {
         "topic": "Games on Networks",
         "professor": "Ramasuri Narayanam",
-        "days": [7,8],
+        "days": [9],
         "imageUrl": "../images/GamesOnNetworks.png"
       },
       {
         "topic": "Graph Learning",
         "professor": "Nitendra Rajput",
-        "days": [9,10],
+        "days": [10],
         "imageUrl": "../images/GraphLearning.png"
       }
     ]

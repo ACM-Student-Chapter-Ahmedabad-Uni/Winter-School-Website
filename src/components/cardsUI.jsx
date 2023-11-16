@@ -12,7 +12,7 @@ const TopicCards = ( {siteUrl} ) => {
                 <p className="mb-2">Professor: <a href={`${siteUrl}/speakers/#${topic.professor}`}>{topic.professor}</a></p>
                 <p className="mb-2">Days: 
                     {topic.days.map((day, dayIndex) => (
-                        <span key={dayIndex} style={{"margin": "1%"}}>{day}</span>
+                        <a key={dayIndex} style={{"margin": "1%"}} href={`${siteUrl}/schedule`}>{day}</a>
                     ))}
                 </p>
             </div>
