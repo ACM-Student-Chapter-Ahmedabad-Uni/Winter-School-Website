@@ -9,13 +9,13 @@ export const data = {
       {
         "topic": "Strategic Network Formation",
         "professor": "Loyimee Gogoi",
-        "days": [1,2,3,8],
+        "days": [2,3,8],
         "imageUrl": "../images/StrategicNetworkFormation.png"
       },
       {
         "topic": "Network Analysis in Telecom",
         "professor": "Amit Nanavati",
-        "days": [1,3,4,8],
+        "days": [3,8],
         "imageUrl": "../images/NetworkAnalysisInTelecom.png"
       },
       {

@@ -8,7 +8,6 @@ import Carousel from "../components/carousel"
 import Navbar from "../components/navbar"
 import CardsUI from "../components/cardsUI"
 import Footer from "../components/footer"
-import { inject } from '@vercel/analytics';
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -22,9 +21,7 @@ const IndexPage = () => {
   `)
 
   const siteUrl = data.site.siteMetadata.siteUrl
-
-  inject();
-
+  
   return (
     <Layout>
       <Navbar />
