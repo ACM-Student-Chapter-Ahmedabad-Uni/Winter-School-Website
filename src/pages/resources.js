@@ -6,14 +6,14 @@ import Navbar from "../components/navbar"
 import Footer from "../components/footer"
 import { inject } from '@vercel/analytics';
 
-const AccommodationPage = () => (
-  <Layout>
-    inject();
+const AccommodationPage = () => {
+  inject();
+  return <Layout>
     <Navbar />
 
     <Footer />
   </Layout>
-)
+}
 
 export const Head = () => <Seo title="Accommodation" />
 

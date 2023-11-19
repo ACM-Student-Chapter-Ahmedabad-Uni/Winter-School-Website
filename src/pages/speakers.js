@@ -5,9 +5,9 @@ import Footer from "../components/footer"
 import { data } from "../../static/data/speakers_data.js"
 import { inject } from '@vercel/analytics';
 
-const SpeakerPage = () => (
-  <>
-    inject();
+const SpeakerPage = () => {
+  inject();
+  return <>
     <Navbar />
     <div className="container my-24 mx-auto md:px-6">
       <section className="mb-32 text-center">
@@ -32,7 +32,7 @@ const SpeakerPage = () => (
     </div>
     <Footer />
   </>
-)
+}
 
 export const Head = () => <Seo title="Speakers" />
 

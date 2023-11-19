@@ -8,9 +8,9 @@ import { data } from "../../static/data/team_data.js"
 import { inject } from '@vercel/analytics';
 
 
-const TeamPage = () => (
-  <>
-    inject();
+const TeamPage = () => {
+  inject();
+  return <>
     <Navbar />
     <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="mx-auto mb-10 lg:max-w-xl sm:text-center">
@@ -24,7 +24,7 @@ const TeamPage = () => (
     </div>
     <Footer />
   </>
-)
+}
 
 export const Head = () => <Seo title="Team" />
 

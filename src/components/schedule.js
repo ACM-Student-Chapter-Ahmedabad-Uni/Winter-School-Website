@@ -20,8 +20,6 @@ export function AccordionCustomStyles() {
 
     return (
         <>
-        <iframe title="schedule" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRM0yU9FSljgQIi91x0QT2rTI8hufwAGDI6jAZYVEeW84pDymz-FGx-BF_h3uX8BcuXNH2w92AQBnx-/pubhtml?gid=1009124292&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" ></iframe>
-        
             {/* {data.Days.map((day, index) => (
                 <Accordion id={`day${index + 1}`} onClick={() => handleOpen(index + 1)} open={open === index + 1} className="mb-2 rounded-lg border border-blue-gray-100 px-4" key={index}>
                     <AccordionHeader

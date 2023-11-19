@@ -11,9 +11,12 @@ const Card = ({ title, content }) => (
   </div>
 );
 
-const AhmedabadVenuePage = () => (
-  <>
-    inject();
+const AhmedabadVenuePage = () => {
+
+  inject();
+
+  return <>
+
     <Navbar />
     <div className="container mx-auto my-24 md:px-6 ">
       <Card
@@ -63,7 +66,7 @@ const AhmedabadVenuePage = () => (
     </div>
     <Footer />
   </>
-);
+}
 
 export const Head = () => <Seo title="Ahmedabad Venue" />
 
