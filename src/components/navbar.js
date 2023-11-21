@@ -8,12 +8,13 @@ import './navbar-style.css';
 function TextLinkExample() {
   return (
     <Navbar expand="lg">
-      <Navbar.Brand href="/" className="text-sm sm:text-base md:text-lg lg:text-xl font-bold text-black no-underline hover:underline" style={{ marginLeft: '10px' }}>
-        ACM x Ahmedabad University
-      </Navbar.Brand>
+      <img src="../images/AU_logo.jpg" alt="Logo" width="20%" height="20%" className="d-inline-block align-centre" />
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
         <Nav className='mr-6'>
+          <Nav.Link href="/" className="text-base font-medium text-gray-700 hover:text-gray-900 ml-4">
+            HOME
+          </Nav.Link>
           <Nav.Link href="/schedule" className="text-base font-medium text-gray-700 hover:text-gray-900 ml-4">
             SCHEDULE
           </Nav.Link>

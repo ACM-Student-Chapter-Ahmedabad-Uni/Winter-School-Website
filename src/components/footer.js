@@ -16,7 +16,7 @@ function Footer() {
       <div className="container mx-auto py-8 px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <FooterCard
-            title="ACM Winter School"
+            title="Association for Computing Machinery (ACM) Winter School"
             content="Network science has been an active area of research for the last two decades. The Winter School will introduce the students to the field, make them familiar with some of the fundamental results and approaches, and, in particular, demonstrate its impact on multiple disciplines, including biology, economics, and the social sciences."
           />
 
@@ -32,7 +32,6 @@ function Footer() {
               </ul>
             }
           />
-
           <FooterCard
             title="Contact Information"
             content={
