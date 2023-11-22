@@ -4,44 +4,20 @@ export const data = {
             "Day": "Monday, December 11, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Strategic Network Formation: Loyimee Gogoi"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Basics + Review: Loyimee"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Network Visualisation: Sougata Mukherjea"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Visualization: Sougata"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Network Visualisation: Sougata Mukherjea"
+                    event: "Visualization: Sougata"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Gephi Workshop"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
+                    event: "Gephi: Harsh & Parva"
                 }
             ]
         },
@@ -49,40 +25,20 @@ export const data = {
             "Day": "Tuesday, December 12, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Network Visualisation: Sougata Mukherjea"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Visualization: Sougata NodeXL: Dhruvi"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Network Visualisation: Sougata Mukherjea"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Strategic N/W Formation: Loyimee"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Strategic Network Formation: Loyimee Gogoi"
+                    event: "Strategic N/W Formation: Loyimee"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
+                    event: "Networkx-1: Krutarth, Mihir"
                 }
             ]
         },
@@ -90,44 +46,20 @@ export const data = {
             "Day": "Wednesday, December 13, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Strategic Network Formation: Loyimee Gogoi"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Strategic N/W Formation: Loyimee"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Network Analysis in Telecom: Amit Nanavati"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Strong and Weak Ties: Amit"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Network Analysis in Telecom: Amit Nanavati"
+                    event: "Telecom SNs: Amit"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
+                    event: "Networkx-2: Krutarth, Mihir"
                 }
             ]
         },
@@ -135,32 +67,20 @@ export const data = {
             "Day": "Thursday, December 14, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    time: "9:00 - 10:30",
+                    event: "Telecom SNs: Amit"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Stat. Mech. N/Ws: Sitabhra"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
+                    event: "Stat. Mech. N/Ws: Sitabhra"
                 },
                 {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Gujarati Thali"
+                    time: "3:15 - 4:45",
+                    event: "(tentative) Stat. Mech. N/Ws: Harsh, Mihir"
                 }
             ]
         },
@@ -168,44 +88,20 @@ export const data = {
             "Day": "Friday, December 15, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Statistical Physics of Complex Networks: Sitabhra Sinha"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Stat. Mech. N/Ws: Sitabhra"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Dynamics on Complex Networks: M.S. Santhanam"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Dynamics on N/Ws: Santhanam"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Dynamics on Complex Networks: M.S. Santhanam"
+                    event: "Dynamics on N/Ws: Santhanam"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Dynamics on Complex Networks: M.S. Santhanam"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
+                    event: "Dynamics on N/Ws: Santhanam"
                 }
             ]
         },
@@ -213,36 +109,20 @@ export const data = {
             "Day": "Saturday, December 16, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Hate Speech Detection and Spread: Seema Nagar"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Hate Speech: Seema"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Games on Networks: Ramasuri Narayanam"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Hate Speech: Seema"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Games on Networks: Ramasuri Narayanam"
+                    event: "Hate Speech: Seema"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Seema"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
+                    event: "Hate Speech: Aatman"
                 }
             ]
         },
@@ -250,28 +130,8 @@ export const data = {
             "Day": "Sunday, December 17, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
-                    time: "9:00 - 10:30",
-                    event: "Heritage Walk"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
-                },
-                {
-                    time: "10:45 - 12:15",
-                    event: "Hate Speech Detection and Spread: Seema Nagar"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
+                    time: "1:30 - 3:00",
+                    event: "Cricket N/W: Praharsh"
                 }
             ]
         },
@@ -279,40 +139,20 @@ export const data = {
             "Day": "Monday, December 18, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Games on Networks: Ramasuri Narayanam"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Strategic N/W Formation: Loyimee"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Sayan Ranu"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Link Analysis: Amit"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Sayan Ranu"
+                    event: "Causality: Praharsh"
                 },
                 {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
+                    time: "3:15 - 4:45",
+                    event: "Balance: Harsh, Parva"
                 }
             ]
         },
@@ -320,40 +160,20 @@ export const data = {
             "Day": "Tuesday, December 19, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Sayan Ranu"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Games & N/W: Ramasuri"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Graph Learning: Nitendra Rajput"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
+                    event: "Games & N/W: Ramasuri"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Graph Learning: Nitendra Rajput"
+                    event: "Games & N/W: Ramasuri"
                 },
                 {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
-                },
-                {
-                    time: "6:00 - 7:00",
-                    event: "Activities"
-                },
-                {
-                    time: "7:30 - 8:15",
-                    event: "Dinner"
+                    time: "3:15 - 4:45",
+                    event: "Cascades: Amit"
                 }
             ]
         },
@@ -361,28 +181,12 @@ export const data = {
             "Day": "Wednesday, December 20, 2023",
             "Schedule": [
                 {
-                    time: "8:00 - 8:45",
-                    event: "Breakfast"
-                },
-                {
                     time: "9:00 - 10:30",
-                    event: "Graph Learning: Nitendra Rajput"
-                },
-                {
-                    time: "10:30 - 10:45",
-                    event: "Tea"
+                    event: "Graph Learning: Nitendra"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Ceremony"
-                },
-                {
-                    time: "12:30 - 1:30",
-                    event: "Lunch"
-                },
-                {
-                    time: "4:45 - 5:30",
-                    event: "High-Tea"
+                    event: "Graph Learning: Nitendra"
                 }
             ]
         }
