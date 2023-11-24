@@ -1,11 +1,11 @@
 import React from "react";
-import { data } from "../../static/data/schedule_data.js"
+import { data_schedule } from "../../static/data/schedule_data.js"
 
 export function AccordionCustomStyles() {
     return (
         <table className="table table-hover course-list-table table-harassment">
             <thead>
-                {data.Days.map((day, index) => (
+                {data_schedule.Days.map((day, index) => (
                     <React.Fragment key={index}>
                         <tr id={`day${index+1}`}>
                             <th colSpan="2" style={{width: "5%", textAlign: "left", verticalAlign: "left"}}>
