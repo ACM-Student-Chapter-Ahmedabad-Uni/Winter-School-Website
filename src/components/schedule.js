@@ -7,7 +7,7 @@ export function AccordionCustomStyles() {
             <thead>
                 {data.Days.map((day, index) => (
                     <React.Fragment key={index}>
-                        <tr>
+                        <tr id={`day${index+1}`}>
                             <th colSpan="2" style={{width: "5%", textAlign: "left", verticalAlign: "left"}}>
                                 <b>{day.Day}</b>
                             </th>

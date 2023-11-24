@@ -24,11 +24,11 @@ function Footer() {
             title="Quick Links"
             content={
               <ul className="list-disc">
-                <li><a href="/schedule" className="text-gray-400 hover:text-white">SCHEDULE</a></li>
-                <li><a href="/speakers" className="text-gray-400 hover:text-white">SPEAKERS</a></li>
-                <li><a href="/team" className="text-gray-400 hover:text-white">TEAM</a></li>
-                <li><a href="/venue" className="text-gray-400 hover:text-white">VENUE</a></li>
-                {/* <li><a href="/resources" className="text-gray-400 hover:text-white">RESOURCES</a></li> */}
+                <li><a href="/schedule" className="text-gray-400 no-underline hover:text-white">SCHEDULE</a></li>
+                <li><a href="/speakers" className="text-gray-400 no-underline hover:text-white">SPEAKERS</a></li>
+                <li><a href="/team" className="text-gray-400 no-underline hover:text-white">TEAM</a></li>
+                <li><a href="/venue" className="text-gray-400 no-underline hover:text-white">VENUE</a></li>
+                {/* <li><a href="/resources" className="text-gray-400 no-underline hover:text-white">RESOURCES</a></li> */}
               </ul>
             }
           />

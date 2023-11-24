@@ -27,7 +27,7 @@ const IndexPage = () => {
     <Layout>
       <Navbar />
       <Carousel />
-      <div style={{ height: '60px', background: '#f8f8f8' }}></div>
+      <div style={{ height: '30px', background: '#f8f8f8' }}></div>
       <CardsUI siteUrl={siteUrl} />
       <Footer />
     </Layout>

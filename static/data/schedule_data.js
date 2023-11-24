@@ -1,4 +1,4 @@
-export const data = {
+export const data_schedule = {
     "Days": [
         {
             "Day": "Monday, December 11, 2023",
