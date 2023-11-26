@@ -26,11 +26,11 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Visualization: Sougata NodeXL: Dhruvi"
+                    event: "Visualization: Sougata; NodeXL: Dhruvi"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Strategic N/W Formation: Loyimee"
+                    event: "Visualization: Sougata"
                 },
                 {
                     time: "1:30 - 3:00",
@@ -38,7 +38,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx-1: Krutarth, Mihir"
+                    event: "Networkx: Krutarth, Mihir"
                 }
             ]
         },
@@ -47,11 +47,11 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee"
+                    event: "Strategic N/W Formation: Loyimee + Tutorial"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Strong and Weak Ties: Amit"
+                    event: "Strategic N/W Formation: Loyimee Tutorial"
                 },
                 {
                     time: "1:30 - 3:00",
@@ -59,7 +59,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx-2: Krutarth, Mihir"
+                    event: "Amit - Telecom"
                 }
             ]
         },
@@ -68,7 +68,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Telecom SNs: Amit"
+                    event: "Telecom SNs: Amit - Tutorial"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -101,7 +101,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Dynamics on N/Ws: Santhanam"
+                    event: "Dynamics on N/Ws: Santhanam + Tutorial"
                 }
             ]
         },
@@ -118,11 +118,12 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Hate Speech: Seema"
+                    event: "Hate Speech: Aatman"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Hate Speech: Aatman"
+                    event: "Hate Speech: Seema"
+                    
                 }
             ]
         },
@@ -152,7 +153,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Balance: Harsh, Parva"
+                    event: "Hate Speech: Aatman"
                 }
             ]
         },
@@ -169,11 +170,11 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Games & N/W: Ramasuri"
+                    event: "Games & N/W: Ramasuri + Tutorial"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Cascades: Amit"
+                    event: "Balancing: Harsh & Parva"
                 }
             ]
         },
