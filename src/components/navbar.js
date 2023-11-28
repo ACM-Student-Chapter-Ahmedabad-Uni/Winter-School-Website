@@ -9,8 +9,8 @@ function TextLinkExample() {
   return (
     <Navbar expand="lg">
       <Navbar.Brand>
-        <Nav.Link to="/">
-          <img src={"../images/AU_logo.jpg"} alt="Logo" className="logo w-36 h-18" />
+        <Nav.Link href="/">
+          <img src={"../images/AU_logo.png"} alt="Logo" className="logo w-36 h-18 m-1" />
         </Nav.Link>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
