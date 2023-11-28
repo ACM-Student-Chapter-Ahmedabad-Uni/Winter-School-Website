@@ -2,9 +2,8 @@ import React, { useState, useEffect } from 'react';
 import '../styles/carousel.css'; // Import CSS file for custom styles
 
 const images = [
-    require('../images/One.jpeg'),
-    require('../images/Three.jpg'),
-    require('../images/Two.png'),
+    require('../images/Qwerty.jpg'),
+    
 ];
 
 const Carousel = () => {

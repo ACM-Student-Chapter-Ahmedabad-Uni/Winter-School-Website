@@ -9,6 +9,7 @@ import Navbar from "../components/navbar"
 import CardsUI from "../components/cardsUI"
 import Footer from "../components/footer"
 import { inject } from '@vercel/analytics';
+import About from "../components/About"
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -27,6 +28,7 @@ const IndexPage = () => {
     <Layout>
       <Navbar />
       <Carousel />
+    
       <div style={{ height: '30px', background: '#f8f8f8' }}></div>
       <CardsUI siteUrl={siteUrl} />
       <Footer />

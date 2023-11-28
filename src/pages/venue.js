@@ -19,6 +19,7 @@ const AhmedabadVenuePage = () => {
 
     <Navbar />
     <div className="container mx-auto my-24 md:px-6 ">
+    <h2 className="text-2xl font-bold md:text-4xl text-center">Venue</h2>
       <Card
         title="Welcome to Ahmedabad!"
         content="Located in the heart of Gujarat, Ahmedabad is defined by a spirit of enterprise, and houses several reputed educational institutions and heritage sites. Associated with Mahatma Gandhi and his Ashram in Sabarmati, Ahmedabad is also home to some of the finest medieval and modern architecture in the country. Complete with modern amenities like malls and multiplexes, and superior public infrastructure, Named as India's first heritage city by UNESCO, it offers plenty to explore between a rich heritage, abundant museums, colourful festivals, and a mélange of cultural activities. Ahmedabad is also an industrial town with a rich history of textiles, pharmaceutical, chemicals, auto and auto components, and engineering industries."

@@ -11,10 +11,7 @@ const SpeakerPage = () => {
     <Navbar />
     <div className="container my-24 mx-auto md:px-6">
       <section className="mb-32 text-center">
-        <h2 className="mb-12 text-3xl font-bold text-left">
-          Speakers
-        </h2>
-
+        <h2 className="text-2xl font-bold md:text-4xl text-center">Speakers</h2>
         <div className="grid gap-y-6">
           {data.Speakers.map((speaker, index) => (
             <div id={speaker.name} key={index} className="bg-white shadow-lg rounded-lg mx-6 md:flex items-center">
