@@ -5,19 +5,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Basics + Review: Loyimee"
+                    event: "Basics + Review: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Visualization: Sougata"
+                    event: "Visualization: Sougata Mukherjea"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Visualization: Sougata"
+                    event: "Visualization: Sougata Mukherjea"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Gephi: Harsh & Parva"
+                    event: "Gephi: Harsh Bhagat & Parva Parmar"
                 }
             ]
         },
@@ -26,19 +26,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Visualization: Sougata; NodeXL: Dhruvi"
+                    event: "Visualization: Sougata Mukherjea; NodeXL: Dhruvi Rajput"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Visualization: Sougata"
+                    event: "Visualization: Sougata Mukherjea"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Strategic N/W Formation: Loyimee"
+                    event: "Strategic N/W Formation: Loyimee Gogoi"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx: Krutarth, Mihir"
+                    event: "Networkx: Krutarth Vora, Mihir Kotecha"
                 }
             ]
         },
@@ -47,19 +47,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee + Tutorial"
+                    event: "Strategic N/W Formation: Loyimee Gogoi + Tutorial"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Strategic N/W Formation: Loyimee Tutorial"
+                    event: "Strategic N/W Formation: Loyimee Gogoi Tutorial"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Telecom SNs: Amit"
+                    event: "Telecom SNs: Amit Nanavati"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Amit - Telecom"
+                    event: "Amit Nanavati - Telecom"
                 }
             ]
         },
@@ -68,19 +68,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Telecom SNs: Amit - Tutorial"
+                    event: "Telecom SNs: Amit Nanavati - Tutorial"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Stat. Mech. N/Ws: Sitabhra"
+                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Stat. Mech. N/Ws: Sitabhra"
+                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "(tentative) Stat. Mech. N/Ws: Harsh, Mihir"
+                    event: "(tentative) Stat. Mech. N/Ws: Harsh Bhagat, Mihir Kotecha"
                 }
             ]
         },
@@ -89,19 +89,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Stat. Mech. N/Ws: Sitabhra"
+                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Dynamics on N/Ws: Santhanam"
+                    event: "Dynamics on N/Ws: M.S. Santhanam"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Dynamics on N/Ws: Santhanam"
+                    event: "Dynamics on N/Ws: M.S. Santhanam"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Dynamics on N/Ws: Santhanam + Tutorial"
+                    event: "Dynamics on N/Ws: M.S. Santhanam + Tutorial"
                 }
             ]
         },
@@ -114,15 +114,15 @@ export const data_schedule = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Hate Speech: Seema"
+                    event: "Hate Speech: Seema Nagar"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Hate Speech: Aatman"
+                    event: "Hate Speech: Aatman Vaidya"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Hate Speech: Seema"
+                    event: "Hate Speech: Seema Nagar"
                     
                 }
             ]
@@ -141,11 +141,11 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee"
+                    event: "Strategic N/W Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Link Analysis: Amit"
+                    event: "Link Analysis: Amit Nanavati"
                 },
                 {
                     time: "1:30 - 3:00",
@@ -153,7 +153,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Hate Speech: Aatman"
+                    event: "Hate Speech: Aatman Vaidya"
                 }
             ]
         },
@@ -162,19 +162,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Games & N/W: Ramasuri"
+                    event: "Games & N/W: Ramasuri Narayanam"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Games & N/W: Ramasuri"
+                    event: "Games & N/W: Ramasuri Narayanam"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Games & N/W: Ramasuri + Tutorial"
+                    event: "Games & N/W: Ramasuri Narayanam + Tutorial"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Balancing: Harsh & Parva"
+                    event: "Balancing: Harsh Bhagat & Parva Parmar"
                 }
             ]
         },
@@ -183,11 +183,11 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Graph Learning: Nitendra"
+                    event: "Graph Learning: Nitendra Rajput"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Graph Learning: Nitendra"
+                    event: "Graph Learning: Nitendra Rajput"
                 }
             ]
         }
