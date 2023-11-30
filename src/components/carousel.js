@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import '../styles/carousel.css'; // Import CSS file for custom styles
 
 const images = [
-    require('../images/Qwerty.jpg'),
+    require('../images/Gate without ladder Vishal Ahmedabad University Panorama.jpg'),
     
 ];
 
