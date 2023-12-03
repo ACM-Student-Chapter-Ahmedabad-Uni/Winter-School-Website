@@ -49,6 +49,12 @@ function TextLinkExample() {
           >
             VENUE
           </Nav.Link>
+          <Nav.Link
+            href="/faqs"
+            className="text-base font-medium text-gray-700 hover:text-gray-900 ml-4"
+          >
+            FAQs
+          </Nav.Link>
           {/* <Nav.Link href="/resources" className="text-base font-medium text-gray-700 hover:text-gray-900 ml-4">
             RESOURCES
           </Nav.Link> */}
