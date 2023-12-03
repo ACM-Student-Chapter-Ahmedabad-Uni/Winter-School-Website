@@ -47,7 +47,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee Gogoi + Tutorial"
+                    event: "Strategic N/W Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -68,7 +68,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Telecom SNs: Amit Nanavati - Tutorial"
+                    event: "Telecom SNs: Amit Nanavati"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -153,7 +153,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Hate Speech: Aatman Vaidya"
+                    event: "Balancing: Harsh Bhagat & Parva Parmar"
                 }
             ]
         },
@@ -174,7 +174,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Balancing: Harsh Bhagat & Parva Parmar"
+                    event: "Hate Speech: Aatman Vaidya"
                 }
             ]
         },
