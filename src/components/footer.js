@@ -29,6 +29,7 @@ function Footer() {
                 <li><a href="/team" className="text-gray-400 no-underline hover:text-white">TEAM</a></li>
                 <li><a href="/venue" className="text-gray-400 no-underline hover:text-white">VENUE</a></li>
                 {/* <li><a href="/resources" className="text-gray-400 no-underline hover:text-white">RESOURCES</a></li> */}
+                <li><a href="/faqs" className="text-gray-400 no-underline hover:text-white">FAQs</a></li>
               </ul>
             }
           />
