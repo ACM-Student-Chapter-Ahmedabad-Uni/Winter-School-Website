@@ -26,7 +26,7 @@ export const faqs = {
             },
             {
                 "question": "Can you accommodate special dietary preferences or restrictions?",
-                "answer": "Yes, we can accommodate special dietary preferences or restrictions. Please mention your preferences clearly in the accompanying form."
+                "answer": "Yes, we can accommodate special dietary preferences or restrictions."
             }
         ],
         "Schedule and Sessions": [
@@ -82,7 +82,7 @@ export const faqs = {
         "Contact Information": [
             {
                 "question": "Whom should I contact for assistance during the winter school?",
-                "answer": "A volunteer, currently a student at Ahmedabad University, will be assigned to each participant. They will serve as your first point of contact for any assistance you may need throughout the winter school. You will hear from them shortly. For general information and queries you can write an email to me."
+                "answer": "A volunteer, currently a student at Ahmedabad University, will be assigned to each participant. They will serve as your first point of contact for any assistance you may need throughout the winter school. You will hear from them shortly."
             }
         ],
         "City Exploration": [

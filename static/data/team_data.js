@@ -11,7 +11,11 @@ export const data = {
             "imageUrl": "../images/dhruvi.png",
             "title": "Communication Manager"
         },
-        
+        {
+            "name": "Aatman Vaidya",
+            "imageUrl": "../images/Aatman.png",
+            "title": "Coordinator & Developer"
+        },
         {
             "name": "Harsh Bhagat",
             "imageUrl": "../images/harsh.png",
