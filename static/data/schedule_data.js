@@ -132,7 +132,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "1:30 - 3:00",
-                    event: "Cricket N/W: Praharsh"
+                    event: "Cricket N/W: Praharsh Nanavati"
                 }
             ]
         },
@@ -149,7 +149,7 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Causality: Praharsh"
+                    event: "Causality: Praharsh Nanavati"
                 },
                 {
                     time: "3:15 - 4:45",
