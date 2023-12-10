@@ -18,7 +18,7 @@ const TopicCards = ({ siteUrl }) => {
                             <ul>
                                 {topic.days.map((day, dayIndex) => (
                                     <li key={dayIndex}>
-                                        <a className="no-underline" href={`/schedule/#day`}>{data_schedule["Days"][day - 1]["Day"]}</a>
+                                        <a className="no-underline" href={`/schedule/#day${day}`}>{data_schedule["Days"][day - 1]["Day"]}</a>
                                     </li>
                                 ))}
                             </ul>
