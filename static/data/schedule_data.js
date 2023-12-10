@@ -5,7 +5,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Basics + Review: Loyimee Gogoi"
+                    event: "Network Science Basics + Review: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -17,7 +17,7 @@ export const data_schedule = {
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Gephi: Harsh Bhagat & Parva Parmar"
+                    event: "(Tutorial) Gephi: Harsh Bhagat & Parva Parmar"
                 }
             ]
         },
@@ -26,7 +26,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Visualization: Sougata Mukherjea; NodeXL: Dhruvi Rajput"
+                    event: "(Tutorial) Visualization: Sougata Mukherjea & Dhruvi Rajput"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -34,11 +34,11 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Strategic N/W Formation: Loyimee Gogoi"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Networkx: Krutarth Vora, Mihir Kotecha"
+                    event: "(Tutorial) Networkx: Krutarth Vora & Mihir Kotecha"
                 }
             ]
         },
@@ -47,19 +47,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee Gogoi"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Strategic N/W Formation: Loyimee Gogoi Tutorial"
+                    event: "(Tutorial) Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Telecom SNs: Amit Nanavati"
+                    event: "Social Networks in Telecom: Amit Nanavati"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Amit Nanavati - Telecom"
+                    event: "Social Networks in Telecom: Amit Nanavati"
                 }
             ]
         },
@@ -68,19 +68,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Telecom SNs: Amit Nanavati"
+                    event: "(Tutorial) Social Networks in Telecom: Amit Nanavati"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
+                    event: "Statistical Mechanics of Networks: Sitabhra Sinha"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
+                    event: "Statistical Mechanics of Networks: Sitabhra Sinha"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "(tentative) Stat. Mech. N/Ws: Harsh Bhagat, Mihir Kotecha"
+                    event: "(Tutorial) Network Metrics: Harsh Bhagat & Mihir Kotecha"
                 }
             ]
         },
@@ -89,19 +89,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Stat. Mech. N/Ws: Sitabhra Sinha"
+                    event: "Statistical Mechanics of Networks: Sitabhra Sinha"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Dynamics on N/Ws: M.S. Santhanam"
+                    event: "Dynamics on Networks: M.S. Santhanam"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Dynamics on N/Ws: M.S. Santhanam"
+                    event: "Dynamics on Networks: M.S. Santhanam"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Dynamics on N/Ws: M.S. Santhanam + Tutorial"
+                    event: "(Tutorial) Dynamics on Networks: M.S. Santhanam"
                 }
             ]
         },
@@ -110,7 +110,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Hate Speech: Seema"
+                    event: "Hate Speech: Seema Nagar"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -118,7 +118,7 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Hate Speech: Aatman Vaidya"
+                    event: "(Tutorial) Hate Speech: Aatman Vaidya"
                 },
                 {
                     time: "3:15 - 4:45",
@@ -132,7 +132,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "1:30 - 3:00",
-                    event: "Cricket N/W: Praharsh Nanavati"
+                    event: "(Tutorial) Networks in Sports: Praharsh Nanavati"
                 }
             ]
         },
@@ -141,7 +141,7 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Strategic N/W Formation: Loyimee Gogoi"
+                    event: "Strategic Network Formation: Loyimee Gogoi"
                 },
                 {
                     time: "10:45 - 12:15",
@@ -149,11 +149,11 @@ export const data_schedule = {
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Causality: Praharsh Nanavati"
+                    event: "Causal Discovery and Network Science: Praharsh Nanavati"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Balancing: Harsh Bhagat & Parva Parmar"
+                    event: "(Tutorial) Balancing Graphs: Harsh Bhagat & Parva Parmar"
                 }
             ]
         },
@@ -162,19 +162,19 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "Games & N/W: Ramasuri Narayanam"
+                    event: "Games & Networks: Ramasuri Narayanam"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Games & N/W: Ramasuri Narayanam"
+                    event: "Games & Networks: Ramasuri Narayanam"
                 },
                 {
                     time: "1:30 - 3:00",
-                    event: "Games & N/W: Ramasuri Narayanam + Tutorial"
+                    event: "(Tutorial) Games on Networks"
                 },
                 {
                     time: "3:15 - 4:45",
-                    event: "Hate Speech: Aatman Vaidya"
+                    event: "(Tutorial) Hate Speech: Aatman Vaidya"
                 }
             ]
         },
