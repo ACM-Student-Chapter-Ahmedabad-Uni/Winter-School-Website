@@ -30,7 +30,7 @@ export const data_schedule = {
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Kumu: Dhruvi Rajput"
+                    event: "(Tutorial) Kumu: Dhruvi Rajput"
                 },
                 {
                     time: "1:30 - 3:00",
