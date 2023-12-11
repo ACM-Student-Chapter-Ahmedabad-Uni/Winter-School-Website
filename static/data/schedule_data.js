@@ -26,11 +26,11 @@ export const data_schedule = {
             "Schedule": [
                 {
                     time: "9:00 - 10:30",
-                    event: "(Tutorial) Visualization: Sougata Mukherjea & Dhruvi Rajput"
+                    event: "Epidemics: Sougata Mukherjea"
                 },
                 {
                     time: "10:45 - 12:15",
-                    event: "Visualization: Sougata Mukherjea"
+                    event: "Kumu: Dhruvi Rajput"
                 },
                 {
                     time: "1:30 - 3:00",
