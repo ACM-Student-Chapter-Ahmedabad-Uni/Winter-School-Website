@@ -12,6 +12,11 @@ export const data = {
             "title": "Communication Manager"
         },
         {
+            "name":"Priyam Shah",
+            "imageUrl":"../images/priyam.png",
+            "title":"Communications Manager"
+        },
+        {
             "name": "Aatman Vaidya",
             "imageUrl": "../images/Aatman.png",
             "title": "Coordinator & Developer"
@@ -30,9 +35,6 @@ export const data = {
             "name": "Yatri Mehta",
             "imageUrl": "../images/yatri.png",
             "title": "Event Manager",
-            "socials": {
-                "linkedin":""
-            }
         },
         {
             "name": "Parva Parmar",
