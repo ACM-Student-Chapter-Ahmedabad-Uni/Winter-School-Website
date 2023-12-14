@@ -23,7 +23,7 @@ export const data = {
             "name": "Aatman Vaidya",
             "imageUrl": "../images/Aatman.png",
             "title": "Coordinator & Developer",
-            "Contact":"+91 "
+            "Contact":"+91 93758 25192"
         },
         {
             "name": "Harsh Bhagat",
@@ -41,7 +41,7 @@ export const data = {
             "name": "Yatri Mehta",
             "imageUrl": "../images/yatri.png",
             "title": "Event Manager",
-            "Contact":"+91 "
+            "Contact":"+91 99740 93646"
         },
         {
             "name": "Parva Parmar",
