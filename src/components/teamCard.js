@@ -3,6 +3,7 @@ import React from 'react';
 function TeamCard({ data: props }) {
     const name = props.name;
     const title = props.title;
+    const contact = props.Contact;
     const imageUrl = props.imageUrl;
     
     return (
@@ -15,6 +16,9 @@ function TeamCard({ data: props }) {
             </div>
             <div className="sm:ml-4 flex justify-center items-center">
                     <p className="text-lg">{title}</p>
+            </div>
+            <div className="sm:ml-4 flex justify-center items-center">
+                <p className="text-lg">{contact}</p>    
             </div>
         </div>
     );
