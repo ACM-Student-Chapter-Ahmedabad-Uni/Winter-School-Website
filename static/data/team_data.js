@@ -14,12 +14,6 @@ export const data = {
             "Contact":"+91 70169 81773"
         },
         {
-            "name":"Priyam Shah",
-            "imageUrl":"../images/priyam.png",
-            "title":"Communications Manager",
-            "Contact":"+91 94265 72459"
-        },
-        {
             "name": "Aatman Vaidya",
             "imageUrl": "../images/Aatman.png",
             "title": "Coordinator & Developer",
@@ -54,6 +48,12 @@ export const data = {
             "imageUrl": "../images/krutarth.png",
             "title": "Social Media Manager",
             "Contact":"+91 82000 26834 "
+        },
+        {
+            "name":"Priyam Shah",
+            "imageUrl":"../images/priyam.png",
+            "title":"Student Point of Contact",
+            "Contact":"+91 94265 72459"
         },
         {
             "name": "Paridhi Jain",
